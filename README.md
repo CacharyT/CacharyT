@@ -1,7 +1,7 @@
 Hi 👋 My name is Cachary Tolentino
 ===============================
 
-Data Analyst, Game Developer, Student Aid, and EOF Mentor
+Data Analyst & Game Developer
 -----------------------------
 
 * 🌍  I'm from the Phillipines but live in New Jersey
